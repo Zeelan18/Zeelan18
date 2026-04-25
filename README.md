@@ -113,7 +113,7 @@ Problem Solving     ██████████░░░░ 75%
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/zeelan18">
+  <a href="https://www.linkedin.com/in/zeelan18">
     <img src="https://img.shields.io/badge/LinkedIn-00C7B7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Zeelan18">
