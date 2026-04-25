@@ -23,48 +23,51 @@
 ## ⚡ Tech Stack
 
 ### 🧑‍💻 Languages
-![HTML](https://img.shields.io/badge/HTML-00F7FF?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/Java-00F7FF?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-00F7FF?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-00F7FF?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00F7FF?style=flat&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-00F7FF?style=flat&logo=html5)
-![React](https://img.shields.io/badge/React-00F7FF?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/Angular-00F7FF?style=flat&logo=angular)
-![Solidity](https://img.shields.io/badge/Solidity-00F7FF?style=flat&logo=solidity)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-00F7FF?style=flat&logo=node.js)
-![Spring](https://img.shields.io/badge/Spring-00F7FF?style=flat&logo=spring)
-![Oracle](https://img.shields.io/badge/Oracle-00F7FF?style=flat&logo=oracle)
-![Flask](https://img.shields.io/badge/Flask-00F7FF?style=flat&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00F7FF?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-00F7FF?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-00F7FF?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-00F7FF?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-00F7FF?style=flat&logo=visualstudiocode)
-![n8n](https://img.shields.io/badge/n8n-00F7FF?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ☁️ Cloud & OS
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-00F7FF?style=flat&logo=googlecloud)
-![Linux](https://img.shields.io/badge/Linux-00F7FF?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-00F7FF?style=flat&logo=ubuntu)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-
 <!-- ===================== SKILL GRAPH ===================== -->
 ## 📊 Skill Progress
 
 Web Development     ██████████░░░░ 70% 
-AI & Deep Learning  ████████░░░░░░ 60%
-Backend Development ███████░░░░░░░ 55%
+
+AI & Deep Learning  ████████░░░░░░ 60
+
+%Backend Development ███████░░░░░ 55%
+
 Automation (n8n)    █████████░░░░░ 65%
+
 Problem Solving     ██████████░░░░ 75%
 
 ---
