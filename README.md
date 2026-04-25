@@ -1,94 +1,80 @@
-<!-- ================= HEADER ================= --><h1 align="center">👋 Hi, I'm Zeelan</h1><h3 align="center">
-Computer Science Student | Web Developer | AI Enthusiast | Deep Learning Explorer
-</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Web+Developer;AI+Enthusiast;Deep+Learning+Explorer" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeelan18&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>---
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Zeelan</h1>
+<h3 align="center">💻 Computer Science Student | 🌐 Web Developer | 🤖 AI Enthusiast | 🧠 Deep Learning</h3>
 
-<!-- ================= ABOUT ================= -->🧠 About Me
-
-+ 💡 Strong problem-solving skills with algorithmic thinking  
-+ 🚀 Actively building real-world projects  
-+ 🌐 Experienced in web development and responsive design  
-+ ⚙️ Exploring automation workflows using n8n  
-+ 🤖 Interested in Artificial Intelligence & Deep Learning  
-+ 📈 Focused on continuous learning and technical growth  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;AI+%26+Deep+Learning+Explorer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-<!-- ================= CONNECT ================= -->🌐 Connect With Me
+<!-- ===================== ABOUT ME ===================== -->
+## 🧠 About Me
+
+- 🎓 Computer Science student passionate about problem-solving using efficient algorithms  
+- 💡 Actively building real-world projects in **Web Development & AI**  
+- ⚙️ Working with **n8n automation workflows**  
+- 🤖 Strong interest in **Artificial Intelligence & Deep Learning models**  
+- 🚀 Always exploring new technologies and improving development skills  
+- 📬 Reach me at: **izeelan185@gmail.com**
+
+---
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zeelan-i-299097292">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://linkedin.com/in/zeelan-i-299097292">
+    <img src="https://img.shields.io/badge/LinkedIn-00C7B7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Zeelan18">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:izeelan185@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Email-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>---
-
-<!-- ================= TECH STACK ================= -->⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,java,python,c,cpp,react,angular,nodejs,spring,flask,mysql,mongodb,git,github,vscode,linux,ubuntu&theme=dark" />
-</p>---
-
-<!-- ================= SKILLS ================= -->📊 Skill Progress
-
-<p align="center">
-  <img src="https://progress-bar.dev/90/?title=Python&width=500&color=00F7FF"/>
-  <br/>
-  <img src="https://progress-bar.dev/85/?title=Web%20Development&width=500&color=00F7FF"/>
-  <br/>
-  <img src="https://progress-bar.dev/80/?title=AI%20%2F%20Deep%20Learning&width=500&color=00F7FF"/>
-  <br/>
-  <img src="https://progress-bar.dev/75/?title=Backend%20Development&width=500&color=00F7FF"/>
-</p>---
-
-<!-- ================= STATS ================= -->📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeelan18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeelan18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelan18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-</p>---
-
-<!-- ================= PROJECTS ================= -->📦 Projects
-
-<p align="center">
-  <a href="https://github.com/Zeelan18/ecoinn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=ecoinn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-  </a>
-</p><p align="center">
-  <a href="https://github.com/Zeelan18/IBM-knowledgehub-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=IBM-knowledgehub-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-  </a>
-</p><p align="center">
-  <a href="https://github.com/Zeelan18/marketHBD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=marketHBD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-  </a>
-</p>---
-
-<!-- ================= FUN ================= -->🎯 Fun Facts
-
-- ⚙️ Enjoy automating workflows
-- 🤖 Curious about AI systems
-- 🚀 Love building innovative projects
+</p>
 
 ---
 
-<!-- ================= SNAKE ================= -->🐍 Contribution Graph
+<!-- ===================== TECH STACK ===================== -->
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github.com/Zeelan18/Zeelan18/blob/output/github-contribution-grid-snake.svg" />
-</p>---
+### 🧑‍💻 Languages
+![HTML](https://img.shields.io/badge/HTML-00F7FF?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/Java-00F7FF?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-00F7FF?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-00F7FF?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00F7FF?style=flat&logo=c%2B%2B)
 
-<!-- ================= FOOTER ================= --><p align="center">
-✨ <b>Neon AI Theme</b> | #00F7FF + #0D1117  
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-00F7FF?style=flat&logo=html5)
+![React](https://img.shields.io/badge/React-00F7FF?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-00F7FF?style=flat&logo=angular)
+![Solidity](https://img.shields.io/badge/Solidity-00F7FF?style=flat&logo=solidity)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-00F7FF?style=flat&logo=node.js)
+![Spring](https://img.shields.io/badge/Spring-00F7FF?style=flat&logo=spring)
+![Oracle](https://img.shields.io/badge/Oracle-00F7FF?style=flat&logo=oracle)
+![Flask](https://img.shields.io/badge/Flask-00F7FF?style=flat&logo=flask)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00F7FF?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-00F7FF?style=flat&logo=mongodb)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-00F7FF?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-00F7FF?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-00F7FF?style=flat&logo=visualstudiocode)
+![n8n](https://img.shields.io/badge/n8n-00F7FF?style=flat)
+
+### ☁️ Cloud & OS
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-00F7FF?style=flat&logo=googlecloud)
+![Linux](https://img.shields.io/badge/Linux-00F7FF?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-00F7FF?style=flat&logo=ubuntu)
+
+---
+
+<!-- ===================== SKILL GRAPH ===================== -->
+## 📊 Skill Progress
