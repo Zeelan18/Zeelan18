@@ -1,30 +1,56 @@
-<h1 align="center">Hi 👋, I'm Zeelan18</h1>
-<h3 align="center">I am a dedicated Computer Science Engineering student at the Government College of Engineering Bargur, with a strong passion for building efficient and scalable software solutions. I have hands-on experience in Python, MySQL, and Git, along with a growing interest in database systems, web technologies, and data-driven applications. Through academic and personal projects, including a Student Attendance System and analytics dashboards, I have developed a solid foundation in problem-solving, system design, and application development. I am continuously exploring new technologies and striving to enhance my technical expertise, with the goal of contributing to innovative and impactful software projects.</h3>
+# 👋 Hi, I'm Zeelan I
 
-- 🔭 I’m currently working on [IBM knowledge hub project](https://drive.google.com/file/d/1nXNPjdecmqrR-oG0m8w-uNtfiio4isvW/view?usp=sharing)
+🎓 3rd Year Computer Science Engineering Student  
+🏫 Government College of Engineering, Bargur  
 
-- 🌱 I’m currently learning **flutter,**
+---
 
-- 👨‍💻 All of my projects are available at [https://preview--zeelan-s-ai-studio.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoicDY2eURrSVJQa2dMcFJIVDBSVjFvbklyazA4MiIsInByb2plY3RfaWQiOiI5ZjEyMDIyZC1jOWZiLTQyODUtOWJiMS1iMGY4YzUxYzU1YzQiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjlmMTIwMjJkLWM5ZmItNDI4NS05YmIxLWIwZjhjNTFjNTVjNCIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzQ2ODcyMTIsIm5iZiI6MTc3NDA4MjQxMiwiaWF0IjoxNzc0MDgyNDEyfQ.O2LvSNOkWx7OgmtS-D2c82kRkTpwUgCti_U7cna05MNb1FYm9JOsPY_8rMIQrJdWxFMZ0gXQR9QvUka4X1iymm9_m5xZOjO-pKZifAeZXzSFTfI_SQMlvT5lyjbpcLc6xZO9mX9SKsD4U1LLQ9MC0dPMlKjNmxbxObCXuZ039ArpI-DNK-xwcTcGVBjb8mLbBzwBAxh3K8vLcx3CwQTjefu_4yy49E-Rfue7RHyWQhSb6A4OSOgQg8xgcBkUWeUK0ZgpF365hmRFYA8cMkSnaJ1IvfuyP19eTdrLmGLYBTDlWp3JphDv7Ym0-YuWOerRfikWlvVZWtYlaxjjCWS1YcYcE6aFvR7cEhg3ArRGhtbqBOk6vAB2cUtrgy_Yj_Nwx_XM4S8GzxxTxfcA08eV2A6Agj7QHt0XpXZ5O9Yyut4NyC3fTyzlsxj5anKRJcf7Klqp97RjfcOHtt_SSaIdCEs78B6Na4Ld0F65eNOItbDXHTBJUsxKiD7jEjAkww3YbElfwGtbcjoSQbGUPf-bNY95vT_J7AQRKGt0iY_ofW4TXvmTZVLmeMgEIfIHqh7ifL3ZCEOo8mpXbhABpptcJwkiHLw_mQbe6dcWXVJQbcFHfjC_zfW4JIcmdROgBYrjAxGUKxRHm1ew5zu8vE2InQfGdPKxKXifjyKDv1WNTMM](https://preview--zeelan-s-ai-studio.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoicDY2eURrSVJQa2dMcFJIVDBSVjFvbklyazA4MiIsInByb2plY3RfaWQiOiI5ZjEyMDIyZC1jOWZiLTQyODUtOWJiMS1iMGY4YzUxYzU1YzQiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjlmMTIwMjJkLWM5ZmItNDI4NS05YmIxLWIwZjhjNTFjNTVjNCIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzQ2ODcyMTIsIm5iZiI6MTc3NDA4MjQxMiwiaWF0IjoxNzc0MDgyNDEyfQ.O2LvSNOkWx7OgmtS-D2c82kRkTpwUgCti_U7cna05MNb1FYm9JOsPY_8rMIQrJdWxFMZ0gXQR9QvUka4X1iymm9_m5xZOjO-pKZifAeZXzSFTfI_SQMlvT5lyjbpcLc6xZO9mX9SKsD4U1LLQ9MC0dPMlKjNmxbxObCXuZ039ArpI-DNK-xwcTcGVBjb8mLbBzwBAxh3K8vLcx3CwQTjefu_4yy49E-Rfue7RHyWQhSb6A4OSOgQg8xgcBkUWeUK0ZgpF365hmRFYA8cMkSnaJ1IvfuyP19eTdrLmGLYBTDlWp3JphDv7Ym0-YuWOerRfikWlvVZWtYlaxjjCWS1YcYcE6aFvR7cEhg3ArRGhtbqBOk6vAB2cUtrgy_Yj_Nwx_XM4S8GzxxTxfcA08eV2A6Agj7QHt0XpXZ5O9Yyut4NyC3fTyzlsxj5anKRJcf7Klqp97RjfcOHtt_SSaIdCEs78B6Na4Ld0F65eNOItbDXHTBJUsxKiD7jEjAkww3YbElfwGtbcjoSQbGUPf-bNY95vT_J7AQRKGt0iY_ofW4TXvmTZVLmeMgEIfIHqh7ifL3ZCEOo8mpXbhABpptcJwkiHLw_mQbe6dcWXVJQbcFHfjC_zfW4JIcmdROgBYrjAxGUKxRHm1ew5zu8vE2InQfGdPKxKXifjyKDv1WNTMM)
+## 🌐 Connect with Me
 
-- 💬 Ask me about **python,nodejs,google cloud**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeelan%20I-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeelan-i-299097292)
+[![GitHub](https://img.shields.io/badge/GitHub-Zeelan18-black?style=for-the-badge&logo=github)](https://github.com/Zeelan18)
+[![Email](https://img.shields.io/badge/Email-izeelan185%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:izeelan185@gmail.com)
 
-- 📫 How to reach me **izeelan185@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B_LrAczVoVBIIFcYHYxSje8SNGBytsSP/view?usp=sharing](https://drive.google.com/file/d/1B_LrAczVoVBIIFcYHYxSje8SNGBytsSP/view?usp=sharing)
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **🐛 I enjoy fixing bugs almost as much as creating them**
+- 🎓 Currently pursuing B.E. in Computer Science Engineering  
+- 💡 Passionate about building real-world software solutions  
+- 🚀 Exploring Full Stack Development & Cloud Technologies  
+- 🛠️ Interested in automation, backend systems, and scalable applications  
+- 📚 Continuously learning and improving my technical skills  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeelan-i-299097292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeelan-i-299097292" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_zeelan_18?igsh=ow10nmuwyxpnztz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_zeelan_18?igsh=ow10nmuwyxpnztz5" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 💻 Skills
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zeelan18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeelan18" /></a></p><br><br>
+### 🚀 Frontend & Programming Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
 
+---
 
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+
+---
+
+### 🛠️ Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![n8n](https://img.shields.io/badge/n8n-purple?style=for-the-badge&logo=n8n)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
+
+---
+
+## ✨ Fun Fact
+⚡ I enjoy turning ideas into real projects and experimenting with new tech tools!
+
+---
