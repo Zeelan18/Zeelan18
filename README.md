@@ -62,9 +62,9 @@
 
 Web Development     ██████████░░░░ 70% 
 
-AI & Deep Learning  ████████░░░░░░ 60
+AI & Deep Learning  ████████░░░░░░ 60%
 
-%Backend Development ███████░░░░░ 55%
+Backend Development ███████░░░░░ 55%
 
 Automation (n8n)    █████████░░░░░ 65%
 
