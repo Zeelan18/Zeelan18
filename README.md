@@ -72,6 +72,8 @@ Problem Solving     ██████████░░░░ 75%
 
 ---
 
+---
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📈 GitHub Stats
 
@@ -85,52 +87,17 @@ Problem Solving     ██████████░░░░ 75%
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Projects
 
-<p align="center">
-
-<a href="https://github.com/Zeelan18/ecoinn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=ecoinn&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Zeelan18/IBM-knowledgehub-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=IBM-knowledgehub-Project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Zeelan18/marketHBD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeelan18&repo=marketHBD&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
----
-
-### 🧩 Featured Work
-
 <div align="center">
 
-🔷 **Ecoinn**  
-<sub>💻 Python • Backend Logic • Algorithm-Based</sub>  
-🔗 https://github.com/Zeelan18/ecoinn  
-
-<br>
-
-🔷 **IBM KnowledgeHub**  
-<sub>📊 Cognitive Analytics • Data Insights • Reporting</sub>  
-🔗 https://github.com/Zeelan18/IBM-knowledgehub-Project  
-
-<br>
-
-🔷 **Birthday Website**  
-<sub>🎉 Web Design • Interactive UI • Frontend Project</sub>  
-🔗 https://github.com/Zeelan18/marketHBD  
+| 📦 Project | 🛠 Tech | 🔗 Link |
+|------------|--------|--------|
+| 🪙 Ecoinn | Python | [View](https://github.com/Zeelan18/ecoinn) |
+| 📊 IBM KnowledgeHub | Cognitive Analysis | [View](https://github.com/Zeelan18/IBM-knowledgehub-Project) |
+| 🎉 Birthday Website | Web Project | [View](https://github.com/Zeelan18/marketHBD) |
 
 </div>
 
 ---
-
-### ⚡ Quick Insight
-
-```text
-🪙 Ecoinn            → Backend-focused Python project
-📊 IBM KnowledgeHub  → Analytics & reporting system
-🎉 Birthday Website  → UI/UX interactive website
 
 <!-- ===================== FUN FACTS ===================== -->
 ## ⚡ Fun Facts
